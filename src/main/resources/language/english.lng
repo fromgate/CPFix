@@ -1,0 +1,22 @@
+msg_outdated: '%1% outdated!'
+msg_pleasedownload: 'You can download updated version (%1%) from:'
+enabled: enabled
+disabled: disabled
+msg_config: Configuration
+msg_wrongcp: Your input contains wrong characters. It strongly recommended to update LWGJL library included to your Minecraft client.
+msg_reloaded: Configuration reloaded
+cfg_cpfrom: 'Wrong character set:'
+cfg_cpto: 'Right character set:'
+cfg_fixchatcmd: 'Recoding text in chat: %1% in commands: %2%'
+cfg_fixnsignbook: 'Recoding text at signs: %1% at books: %2%'
+cfg_fixnamelore: 'Recoding name and lore of items: %1%'
+cfg_inform: 'Inform players about wrong version of LWJGL: %1%'
+cfg_permsign: Recoding signs on click (requires permission)
+unknown: unknown
+cfg_syscodepage: 'System console codepage: %1%'
+cfg_outconsole: 'Recode console output: %1% Code page: %2%'
+cfg_outlogfile: 'Recode server.log output: %1% Code page: %2%'
+cfg_inconsole: 'Recode console input: %1% Code page: %2%'
+msg_autoconfig: CPFix was configured according to system console codepage %1%. Please restart the server!
+cfg_wlstate: 'Character whitelist: %1% Symbol to replace: %2%'
+cfg_whitelist: 'Allowed characters: %1%'

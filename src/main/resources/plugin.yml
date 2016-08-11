@@ -1,0 +1,11 @@
+name: CPFix
+main: me.fromgate.cpfix.CPFix
+version: 0.4.1
+author: fromgate, fromgate@gmail.com
+commands:
+   cpfix:
+      description: Show settings of plugin (or reloads configuration)
+      usage: |
+           /cpfix - show configuration
+           /cpfix reload - reload configuration
+           /cpfix auto - perform automatic configuration
